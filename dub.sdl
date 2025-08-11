@@ -1,0 +1,7 @@
+name "bbi"
+description "bbi is interpritator for BEBEscript"
+author "chuchundra"
+copyright "Copyright © 2025, chuchundra"
+license "MIT"
+
+targetType "executable"
