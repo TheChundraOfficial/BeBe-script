@@ -2,6 +2,7 @@ module lexer.tokens;
 
 enum TokenType {
 	PRINT,
+	PRINTLN,
 	NEWLINE,
 	STRING,
 
